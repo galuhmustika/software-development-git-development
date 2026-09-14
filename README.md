@@ -4,3 +4,10 @@ Nama matkul: software development
 Nama: Galuh Mustika Pratiwi
 NPM: 2413020100
 Deskripsi: repository ini dibuat sebagai tugas pengenalan git dan github pada matkul software development
+## Tools yang digunakan
+- Git
+- GitHub
+- Visual Studio Code
+## Daftar File
+- README.md
+- perkenalan.md
